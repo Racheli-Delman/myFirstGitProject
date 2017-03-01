@@ -1,0 +1,49 @@
+*{
+    
+    font-family: arial;
+
+
+}
+
+.openScreen{
+    
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    height: 452px;
+    width:255px;
+
+
+
+}
+
+#notification{
+    
+    border-radius: 10px;
+    background-color: aliceblue;
+    height: 100px;
+    width: 210px;
+    margin: 0 auto;
+    position: relative;
+    top:140px;
+    padding: 1px 10px;
+
+}
+
+#notification-top {
+    
+
+}
+
+#notification-top p{
+    
+    font-size: 12px;
+
+}
+
+#icon-random{
+    
+    width:57px;
+    margin: 0 auto;
+
+
+}
